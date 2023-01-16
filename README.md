@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, Redux**
 
-- ✅ I’m oppen to work right now [ON SEARCH.](https://github.com/alopezbelles/FRONTEND-FP-GEEKSHUBS)
+- ✅ I’m oppen to work right now [ON SEARCH.]([https://github.com/alopezbelles/FRONTEND-FP-GEEKSHUBS](https://www.linkedin.com/in/alopezbelles/))
 
 - 👨‍💻 All of my projects are available at [https://alocreativo.es/](https://alocreativo.es/)
 
