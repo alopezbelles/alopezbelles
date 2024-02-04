@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alex!</h1>
 <h3 align="center">{Graphic Designer + Developer}</h3>
 
-- 🔭 I’m currently working on [WAVES APP (Bootcamp final project)](https://github.com/alopezbelles/FRONTEND-FP-GEEKSHUBS)
-
-- 🌱 I’m currently learning **Javascript, React, Redux**
+- 👋 Hello! I'm Alejandro López, a Full Stack Developer specializing in FrontEnd.
 
 - ✅ I’m oppen to work right now [ON SEARCH.]([https://github.com/alopezbelles/FRONTEND-FP-GEEKSHUBS](https://www.linkedin.com/in/alopezbelles/))
 
-- 👨‍💻 All of my projects are available at [https://alocreativo.es/](https://alocreativo.es/)
+- 👨‍💻 All my projects are available at [https://main.d1y23101v2emod.amplifyapp.com/](https://main.d1y23101v2emod.amplifyapp.com/).
 
-- 📝 I regularly write articles on [https://alocreativo.es/blog-alo-creativo/](https://alocreativo.es/blog-alo-creativo/)
+- 🎨 With over 7 years of experience in graphic design and interface design, I blend creative skills with strong technical expertise.
 
 - 📫 How to reach me **alopezbelles@gmail.com**
 
