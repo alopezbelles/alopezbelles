@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex!</h1>
-<h3 align="center">{Graphic Designer + Developer}</h3>
+<h3 align="center">{Full Stack Developer & Graphic Designer}</h3>
 
 - 👋 Hello! I'm Alejandro López, a Full Stack Developer specializing in FrontEnd.
 
