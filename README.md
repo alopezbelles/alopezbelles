@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex!</h1>
 <h3 align="center">{Full Stack Developer & UX/UI Designer}</h3>
 
-- 👋 Hello! I'm Alejandro López, a Product Engineer, Full Stack Developer and UX/UI Designer.
+- 👋 Hello! I'm Alejandro López, a FrontEnd Developer with UX/UI.
 
 - ✅ I’m oppen to work right now [ON SEARCH.]([https://github.com/alopezbelles/FRONTEND-FP-GEEKSHUBS](https://www.linkedin.com/in/alopezbelles/))
 
